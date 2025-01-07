@@ -1,4 +1,4 @@
-# 📚: ÖĞRENCİ NOT KAYIT SİSTEMİ
+# 📚 ÖĞRENCİ NOT KAYIT SİSTEMİ
 ## 📝 PROJENİN AMACI
 ### Öğrencilerin sınav notlarının sisteme kayıt edildiği, her öğrencinin kendi numarasıyla sisteme giriş yapıp kendi notlarını görüntüleyebildiği ve sistemi kullanacak yetkili kişilerin(öğretmenlerin) öğrencilere ait sınav notları ekleyip güncelleyebildiği bir not kayıt sistemidir.
 
