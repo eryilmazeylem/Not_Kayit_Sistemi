@@ -1,18 +1,53 @@
 # 📚 ÖĞRENCİ NOT KAYIT SİSTEMİ
 ## 📝 PROJENİN AMACI
-### Öğrencilerin sınav notlarının sisteme kayıt edildiği, her öğrencinin kendi numarasıyla sisteme giriş yapıp kendi notlarını görüntüleyebildiği ve sistemi kullanacak yetkili kişilerin(öğretmenlerin) öğrencilere ait sınav notları ekleyip güncelleyebildiği bir not kayıt sistemidir.
+### Bu proje, öğrencilerin sınav notlarının sistematik bir şekilde kaydedilmesi, her öğrencinin kendi numarasıyla sisteme giriş yaparak sınav notlarını görüntüleyebilmesi ve öğretmenlerin öğrencilere ait sınav notlarını ekleyip güncelleyebilmesi için tasarlanmış bir not kayıt sistemidir.
 
-#### Aşağıdaki görselde öğretmen sisteme giriş yapar.
+<h2>Özellikler</h2>
+
+<ul>
+  <li>
+    <strong>Öğrenci Girişi:</strong> Öğrenciler, öğrenci numaralarını kullanarak sisteme giriş yapabilir ve yalnızca kendi sınav notlarını görüntüleyebilir.
+  </li>
+  <li>
+    <strong>Öğretmen Girişi:</strong> Öğretmenler sisteme giriş yaparak:
+    <ul>
+      <li>Öğrenci ekleyebilir.</li>
+      <li>Öğrenci bilgilerini güncelleyebilir.</li>
+      <li>Sınav notlarını kaydedebilir veya düzenleyebilir.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Not Analizi:</strong>
+    <ul>
+      <li>Öğrencilerin sınav ortalaması hesaplanır.</li>
+      <li>Geçen ve kalan öğrenci sayıları ayrı olarak gösterilir.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Kullanılan Teknolojiler</h2>
+<ul>
+  <li>Programlama Dili: C#</li>
+  <li>Görsel Arayüz: Windows Forms</li>
+  <li>Veritabanı: Microsoft SQL Server</li>
+</ul>
+
+<h2>Geliştirme Ortamı</h2>
+<ul>
+  <li>IDE: Visual Studio</li>
+</ul>
+
+#### EKRAN GÖRÜNTÜLERİ
 ![Form Giriş Resmi](FormGiris.png)
 
-#### Bütün öğrencilerin ad,soyad,numara ve sınav notlarının olduğu ekran açılır.
+
 ![Form Giriş Resmi](FormOgretmenDetay.png)
 
-#### Herhangi bir öğrenci üzerine tıklandığında o öğrenciye ait sınav bilgileri ,sınıfın not ortalaması , geçen ve kalan öğrenci sayısına ait bilgiler ekrana gelir.
+
 ![Form Giriş Resmi](FrmOgretmenDetay2.png)
 
-#### Öğrenci okul numarasıyla sisteme giriş yaparsa
+
 ![Form Giriş Resmi](FormOgrenci.png)
 
-#### Sınav notlarını ve geçip ya da kaldığını gördüğü bir ekran karşısını çıkar.
+
 ![Form Giriş Resmi](FormOgrenciDetay2.png)
