@@ -2,7 +2,7 @@
 ## 📝 PROJENİN AMACI
 ### Bu proje, öğrencilerin sınav notlarının sistematik bir şekilde kaydedilmesi, her öğrencinin kendi numarasıyla sisteme giriş yaparak sınav notlarını görüntüleyebilmesi ve öğretmenlerin öğrencilere ait sınav notlarını ekleyip güncelleyebilmesi için tasarlanmış bir not kayıt sistemidir.
 
-<h2>Özellikler</h2>
+<h2>📌 Proje Özellikleri</h2>
 
 <ul>
   <li>
@@ -25,7 +25,7 @@
   </li>
 </ul>
 
-<h2>Kullanılan Teknolojiler</h2>
+<h2>🛠️ Kullanılan Teknolojiler</h2>
 <ul>
   <li>Programlama Dili: C#</li>
   <li>Görsel Arayüz: Windows Forms</li>
